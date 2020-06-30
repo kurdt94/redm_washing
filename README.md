@@ -6,4 +6,5 @@ Press [ G ] to start washing your character.
 
 # Installation
 Add redm_washing folder to your server resources
+
 Add ensure redm_washing to your server cfg
